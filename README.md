@@ -37,7 +37,7 @@
 2021年9月26日以下流程测试没问题。
 
 1. github下载为zip格式压缩包
-2. 打开overleaf新建一个Project，并且选择upload Project
+2. 打开 [overleaf](https://www.overleaf.com/project) 新建一个Project，并且选择upload Project
 3. 等待编译，然后开始happy！
 
 当然你也可以直接copy这个[My Thisis](https://www.overleaf.com/6951136389yrzcxnqfympn)
