@@ -10,6 +10,7 @@
 
 有啥问题可以这里提issue，发邮件或者微信找我，我的联系方式可见[Jiajun Fan](https://www.jiajunfan.com)
 
+这里为了便于共享我把附录删除了。原文可见[My Thisis](https://www.overleaf.com/6951136389yrzcxnqfympn)
 # 使用方法
 ## 文件说明
 
