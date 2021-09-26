@@ -1,6 +1,7 @@
 # NKU_Thisis
 南开人工智能学院毕业设计模板（优秀毕业设计）
 
+
 # 初衷
 
 我在大四做毕业设计的时候，老师只给了我们word的模板。不过我们一些工科类学院的毕业论文常常需要打许多的公式，
@@ -32,9 +33,14 @@
 ```nkthesis.bib``` 主要以bib的格式放置参考文献（推荐这样管理参考文献）
 
 ## 本文件使用方法
-1. 下载为zip格式压缩包
+2021年9月26日以下流程测试没问题。
+
+1. github下载为zip格式压缩包
 2. 打开overleaf新建一个Project，并且选择upload Project
 3. 等待编译，然后开始happy！
+
+当然你也可以直接copy这个[My Thisis](https://www.overleaf.com/6951136389yrzcxnqfympn)
+
 ## Latex基本语法
 
 插入图片
